@@ -167,7 +167,8 @@ validación dentro del ecosistema de la plataforma.
 
 **Tecnologías:** Odoo · HTML · CSS
 
-[Ver repositorio](https://github.com/AngelOtsutsuki/clinica_ayd)
+[Ver versión completa del proyecto](https://github.com/AngelOtsutsuki/clinica2)  
+[Ver repositorio con historial de contribuciones](https://github.com/AngelOtsutsuki/clinica_ayd)
 
 ---
 
