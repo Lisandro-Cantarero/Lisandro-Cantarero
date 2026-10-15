@@ -10,8 +10,20 @@ Durante mi práctica profesional trabajé con **C#, .NET, ASP.NET Core y
 SQL Server**, participando en APIs, reglas de negocio, bases de datos,
 integraciones entre sistemas y procesos transaccionales.
 
-También he desarrollado proyectos académicos utilizando tecnologías como
-**TypeScript, Vue 3, Express, Node.js, Flutter/Dart, Python y Odoo**.
+Durante mi formación también he participado en proyectos académicos utilizando
+diferentes tecnologías web, móviles y de análisis de datos.
+
+---
+
+## 🌱 Actualmente
+
+Continúo reforzando mis conocimientos en desarrollo de software,
+principalmente en **C#, .NET, ASP.NET Core, SQL Server y desarrollo de APIs**,
+mientras amplío mi experiencia con tecnologías web y Full Stack.
+
+Mi objetivo es continuar creciendo como desarrollador de software,
+fortaleciendo especialmente mis conocimientos en backend y ampliando
+progresivamente mi experiencia en desarrollo frontend.
 
 ---
 
@@ -25,55 +37,32 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - Entity Framework Core
 - LINQ
 - ADO.NET
-- Node.js
-- Express
 
-### Frontend y móvil
-
-- HTML
-- CSS
-- SCSS
-- JavaScript
-- TypeScript
-- Vue 3
-- Tailwind CSS
-- Flutter
-- Dart
-
-### Bases de datos y acceso a datos
+### Bases de datos
 
 - SQL Server
 - T-SQL
 - Stored Procedures
-- SQLite
-- MySQL
-- Firebase
-- Prisma
-- Sequelize
+- SSMS
 - Modelado relacional
 
-### APIs y autenticación
+### APIs y pruebas
 
 - REST APIs
-- JWT
-- Passport
 - Postman
 - Swagger / OpenAPI
 
-### Desarrollo y herramientas
+### Desarrollo y versiones
 
 - Git
 - Bitbucket
 - Azure DevOps
 - Visual Studio
-- Odoo
 
 ### Datos e inteligencia artificial
 
 - Python
 - TensorFlow / Keras
-- OpenCV
-- MediaPipe
 - Pandas
 - NumPy
 - Scikit-learn
@@ -126,7 +115,7 @@ Entre sus componentes se encuentran:
 - Análisis de audio utilizando Librosa y FFmpeg.
 - Procesamiento y análisis visual mediante OpenCV y MediaPipe.
 
-**Tecnologías:**  
+**Tecnologías utilizadas:**  
 Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg · Pandas · NumPy · Scikit-learn
 
 [Ver repositorio](https://github.com/Lisandro-Cantarero/Proyecto_Oratoria)
@@ -142,9 +131,8 @@ El proyecto está dividido en un frontend desarrollado con Vue 3 y TypeScript
 y una API backend desarrollada con Express y TypeScript, utilizando Prisma
 para el acceso a los datos y SQLite para su persistencia.
 
-**Frontend:** Vue 3 · TypeScript · Tailwind CSS  
-**Backend:** Express · TypeScript · Prisma  
-**Base de datos:** SQLite
+**Tecnologías utilizadas:**  
+Vue 3 · TypeScript · Tailwind CSS · Express · Prisma · SQLite
 
 [Ver repositorio](https://github.com/Lisandro-Cantarero/ProyectoFinal_Topicos)
 
@@ -165,7 +153,8 @@ distintas vistas del proyecto mediante **HTML y CSS**.
 El proyecto fue desplegado en un **servidor Odoo** para su ejecución y
 validación dentro del ecosistema de la plataforma.
 
-**Tecnologías:** Odoo · HTML · CSS
+**Tecnologías utilizadas:**  
+Odoo · HTML · CSS
 
 [Ver versión completa del proyecto](https://github.com/AngelOtsutsuki/clinica2)  
 [Ver repositorio con historial de contribuciones](https://github.com/AngelOtsutsuki/clinica_ayd)
@@ -180,7 +169,8 @@ para el almacenamiento y consulta de información.
 El proyecto también permite utilizar información almacenada localmente
 mediante JSON como alternativa a Firebase.
 
-**Tecnologías:** Flutter · Dart · Firebase · JSON
+**Tecnologías utilizadas:**  
+Flutter · Dart · Firebase · JSON
 
 [Ver repositorio](https://github.com/Lisandro-Cantarero/FlutterFirebase-recetario)
 
@@ -216,24 +206,10 @@ Para la persistencia de información se utilizó **MySQL con Sequelize ORM**.
 El sistema también integró un frontend web para interactuar con las
 funcionalidades expuestas por la API.
 
-**Backend:** Node.js · Express · Sequelize  
-**Base de datos:** MySQL  
-**Frontend:** JavaScript · HTML · CSS · SCSS  
-**Otros:** JWT · Passport · Swagger / OpenAPI · PDFKit · Multer · bcrypt · express-validator
+**Tecnologías utilizadas:**  
+Node.js · Express · Sequelize · MySQL · JavaScript · HTML · CSS · SCSS · JWT · Passport · Swagger/OpenAPI
 
 [Ver repositorio](https://github.com/Croximity/ProyectoExpertos)
-
----
-
-## 🌱 Actualmente
-
-Continúo reforzando mis conocimientos en desarrollo de software,
-principalmente en **C#, .NET, ASP.NET Core, SQL Server y desarrollo de APIs**,
-mientras amplío mi experiencia con tecnologías web y Full Stack.
-
-Mi objetivo es continuar creciendo como desarrollador de software,
-fortaleciendo especialmente mis conocimientos en backend y ampliando
-progresivamente mi experiencia en desarrollo frontend.
 
 ---
 
