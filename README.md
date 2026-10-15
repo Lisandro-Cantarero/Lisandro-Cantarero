@@ -194,7 +194,11 @@ y consultorio oftalmológico, compuesto por frontend, API REST y base de datos.
 Mi participación se centró principalmente en el desarrollo del **frontend y
 backend del módulo de control de inventario de productos ópticos**, trabajando
 con funcionalidades relacionadas con productos, categorías, stock y gestión
-de información, además de colaborar en otras integraciones del sistema.
+de información.
+
+También participé en otras integraciones del sistema y en la
+**configuración y uso de autenticación mediante JWT**, trabajando con el
+acceso a funcionalidades protegidas de la aplicación.
 
 El proyecto completo incluía funcionalidades como:
 
