@@ -18,6 +18,7 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 ## 🛠️ Tecnologías
 
 ### Backend
+
 - C#
 - .NET 6
 - ASP.NET Core Web API
@@ -28,6 +29,7 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - Java
 
 ### Frontend y móvil
+
 - HTML
 - CSS
 - TypeScript
@@ -37,6 +39,7 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - Dart
 
 ### Bases de datos y acceso a datos
+
 - SQL Server
 - T-SQL
 - Stored Procedures
@@ -46,6 +49,7 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - Modelado relacional
 
 ### APIs y herramientas
+
 - REST APIs
 - JWT
 - Postman
@@ -56,6 +60,7 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - Visual Studio
 
 ### Otros
+
 - Odoo
 - Python
 - TensorFlow / Keras
@@ -70,20 +75,31 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 ## 💼 Experiencia
 
 ### Desarrollo Backend — Práctica Profesional
+
 **Informática Atlántida · Dilo**
 
 Participé en el desarrollo y mantenimiento de proyectos empresariales
-basados en .NET.
+basados en **C#, .NET, ASP.NET Core y SQL Server**, trabajando sobre
+funcionalidades existentes, APIs, integraciones y procesos transaccionales.
 
-Trabajé en:
+Entre las actividades realizadas se encuentran:
 
-- Creación y consumo de endpoints de API.
-- Homologación de funcionalidades entre proyectos .NET.
-- Adaptación de consultas de Entity Framework Core/LINQ a procedimientos
-  almacenados mediante ADO.NET.
-- Integraciones y procesos transaccionales relacionados con eventos,
-  boletería y pagos.
-- Pruebas funcionales, validaciones en base de datos y análisis de incidencias.
+- Creación y consumo de endpoints de API, trabajando con contratos de
+  petición y respuesta, validaciones y comunicación entre servicios.
+- Homologación de funcionalidades y endpoints relacionados con eventos
+  y compra de boletos entre proyectos .NET.
+- Análisis de código existente y dependencias para preservar reglas de
+  negocio y funcionalidades previamente validadas.
+- Adaptación de consultas con Entity Framework Core y LINQ para consumir
+  procedimientos almacenados mediante ADO.NET.
+- Ajustes en DTOs, interfaces y mapeos de datos.
+- Trabajo con integraciones y procesos transaccionales relacionados con
+  eventos, boletería y pagos.
+- Análisis de confirmaciones, reintentos, conectividad y escenarios de
+  procesamiento con servicios internos y externos.
+- Pruebas funcionales, validaciones en base de datos y análisis de
+  incidencias.
+- Documentación de condiciones, flujos y escenarios de error.
 
 ---
 
@@ -94,8 +110,16 @@ Trabajé en:
 Sistema orientado al análisis automatizado de exposiciones mediante
 procesamiento de audio, visión por computadora y aprendizaje automático.
 
+Entre sus componentes se encuentran:
+
+- Entrenamiento de una red neuronal con TensorFlow/Keras para la detección
+  y clasificación de muletillas a partir de espectrogramas.
+- Procesamiento de audio real y sintético.
+- Análisis de audio utilizando Librosa y FFmpeg.
+- Procesamiento y análisis visual mediante OpenCV y MediaPipe.
+
 **Tecnologías:**  
-Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg
+Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg · Pandas · NumPy · Scikit-learn
 
 ---
 
@@ -103,6 +127,10 @@ Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg
 
 Aplicación Full Stack para registrar, consultar, modificar y eliminar
 suscripciones, además de calcular automáticamente el gasto mensual.
+
+El proyecto está dividido en un frontend desarrollado con Vue 3 y TypeScript
+y una API backend desarrollada con Express y TypeScript, utilizando Prisma
+para el acceso a los datos y SQLite para su persistencia.
 
 **Frontend:** Vue 3 · TypeScript · Tailwind CSS  
 **Backend:** Express · TypeScript · Prisma  
@@ -114,11 +142,14 @@ suscripciones, además de calcular automáticamente el gasto mensual.
 
 ### 🏥 Sistema de gestión clínica en Odoo
 
-Proyecto desarrollado dentro del ecosistema Odoo para gestionar pacientes,
-médicos e inventario.
+Proyecto desarrollado dentro del ecosistema Odoo para gestionar información
+de pacientes, médicos e inventario.
 
-Incluyó creación de modelos, vistas e interfaces y personalización mediante
-HTML y CSS.
+Incluyó la creación de modelos y vistas para registrar pacientes,
+asociarlos con médicos y administrar la información utilizada por el sistema.
+
+También se trabajó en el desarrollo y personalización de vistas e interfaces
+mediante HTML y CSS dentro del entorno de Odoo.
 
 **Tecnologías:** Odoo · HTML · CSS
 
@@ -126,8 +157,11 @@ HTML y CSS.
 
 ### 📱 Aplicación móvil de recetas
 
-Aplicación desarrollada con Flutter y Dart, con almacenamiento mediante
-Firebase y soporte alternativo para carga local utilizando JSON.
+Aplicación desarrollada con Flutter y Dart, con integración de Firebase
+para el almacenamiento y consulta de información.
+
+El proyecto también permite utilizar información almacenada localmente
+mediante JSON como alternativa a Firebase.
 
 **Tecnologías:** Flutter · Dart · Firebase · JSON
 
@@ -136,10 +170,17 @@ Firebase y soporte alternativo para carga local utilizando JSON.
 ### 👓 Sistema de gestión para óptica
 
 Participación en el desarrollo backend de un sistema de gestión utilizando
-Java, operaciones CRUD, relaciones entre entidades y autenticación mediante
-JWT.
+Java.
 
-El proyecto integró además un frontend desarrollado con React.
+Se trabajó con:
+
+- Operaciones CRUD.
+- Relaciones entre entidades.
+- Persistencia de información.
+- Autenticación mediante JWT.
+
+El proyecto integró además un frontend desarrollado con React para consumir
+las funcionalidades expuestas por el backend.
 
 **Tecnologías del proyecto:** Java · JWT · React · Base de datos
 
@@ -150,6 +191,10 @@ El proyecto integró además un frontend desarrollado con React.
 Continúo reforzando mis conocimientos en desarrollo de software,
 principalmente en **C#, .NET, ASP.NET Core, SQL Server y desarrollo de APIs**,
 mientras amplío mi experiencia con tecnologías web y Full Stack.
+
+Mi objetivo es continuar creciendo como desarrollador de software,
+fortaleciendo especialmente mis conocimientos en backend y ampliando
+progresivamente mi experiencia en desarrollo frontend.
 
 ---
 
