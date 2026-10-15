@@ -11,7 +11,7 @@ SQL Server**, participando en APIs, reglas de negocio, bases de datos,
 integraciones entre sistemas y procesos transaccionales.
 
 También he desarrollado proyectos académicos utilizando tecnologías como
-**TypeScript, Vue 3, Express, Java, Flutter/Dart, Python y Odoo**.
+**TypeScript, Vue 3, Express, Node.js, Flutter/Dart, Python y Odoo**.
 
 ---
 
@@ -25,13 +25,15 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - Entity Framework Core
 - LINQ
 - ADO.NET
+- Node.js
 - Express
-- Java
 
 ### Frontend y móvil
 
 - HTML
 - CSS
+- SCSS
+- JavaScript
 - TypeScript
 - Vue 3
 - Tailwind CSS
@@ -44,24 +46,30 @@ También he desarrollado proyectos académicos utilizando tecnologías como
 - T-SQL
 - Stored Procedures
 - SQLite
+- MySQL
 - Firebase
 - Prisma
+- Sequelize
 - Modelado relacional
 
-### APIs y herramientas
+### APIs y autenticación
 
 - REST APIs
 - JWT
+- Passport
 - Postman
 - Swagger / OpenAPI
+
+### Desarrollo y herramientas
+
 - Git
 - Bitbucket
 - Azure DevOps
 - Visual Studio
-
-### Otros
-
 - Odoo
+
+### Datos e inteligencia artificial
+
 - Python
 - TensorFlow / Keras
 - OpenCV
@@ -153,6 +161,9 @@ asociarlos con médicos y administrar la información utilizada por el sistema.
 También se trabajó en el desarrollo y personalización de vistas e interfaces
 mediante HTML y CSS dentro del entorno de Odoo.
 
+El proyecto fue posteriormente **desplegado en un servidor Odoo** para
+ejecutar y probar el módulo dentro del ecosistema de la plataforma.
+
 **Tecnologías:** Odoo · HTML · CSS
 
 [Ver repositorio](https://github.com/AngelOtsutsuki/clinica_ayd)
@@ -173,22 +184,32 @@ mediante JSON como alternativa a Firebase.
 
 ---
 
-### 👓 Sistema de gestión para óptica
+### 👓 Sistema de gestión integral para óptica
 
-Participación en el desarrollo backend de un sistema de gestión utilizando
-Java.
+Sistema web para la gestión de una óptica y consultorio oftalmológico,
+incluyendo tanto backend como frontend.
 
-Se trabajó con:
+El backend fue desarrollado como una **API REST con Node.js y Express**,
+integrando diferentes módulos del sistema, entre ellos:
 
-- Operaciones CRUD.
-- Relaciones entre entidades.
-- Persistencia de información.
-- Autenticación mediante JWT.
+- Gestión de usuarios y autenticación mediante JWT.
+- Registro y administración de clientes y empleados.
+- Roles y control de acceso.
+- Consultas médicas y exámenes oftalmológicos.
+- Gestión de diagnósticos y recetas.
+- Control de productos, categorías, inventario y stock.
+- Facturación con detalles y descuentos.
+- Generación de facturas en PDF.
+- Documentación de endpoints mediante Swagger UI.
 
-El proyecto integró además un frontend desarrollado con React para consumir
-las funcionalidades expuestas por el backend.
+Para la persistencia de información se utilizó **MySQL con Sequelize ORM**.
+El proyecto también incluye un frontend web para interactuar con las
+funcionalidades expuestas por la API.
 
-**Tecnologías del proyecto:** Java · JWT · React · Base de datos
+**Backend:** Node.js · Express · Sequelize · JWT · Passport  
+**Base de datos:** MySQL  
+**Frontend:** JavaScript · HTML · CSS · SCSS  
+**Otros:** Swagger UI · PDFKit · Multer · bcrypt · express-validator
 
 [Ver repositorio](https://github.com/Croximity/ProyectoExpertos)
 
