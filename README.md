@@ -152,17 +152,18 @@ para el acceso a los datos y SQLite para su persistencia.
 
 ### 🏥 Sistema de gestión clínica en Odoo
 
-Proyecto desarrollado dentro del ecosistema Odoo para gestionar información
-de pacientes, médicos e inventario.
+Participé en el desarrollo de un módulo dentro del ecosistema Odoo para la
+gestión de pacientes, médicos e inventario.
 
-Incluyó la creación de modelos y vistas para registrar pacientes,
-asociarlos con médicos y administrar la información utilizada por el sistema.
+Trabajé en la creación de modelos y vistas, incluyendo funcionalidades para
+registrar pacientes, asociarlos con médicos y administrar información
+relacionada con el sistema.
 
-También se trabajó en el desarrollo y personalización de vistas e interfaces
-mediante HTML y CSS dentro del entorno de Odoo.
+También trabajé en el desarrollo y personalización de la interfaz de las
+distintas vistas del proyecto mediante **HTML y CSS**.
 
-El proyecto fue posteriormente **desplegado en un servidor Odoo** para
-ejecutar y probar el módulo dentro del ecosistema de la plataforma.
+El proyecto fue desplegado en un **servidor Odoo** para su ejecución y
+validación dentro del ecosistema de la plataforma.
 
 **Tecnologías:** Odoo · HTML · CSS
 
@@ -186,11 +187,15 @@ mediante JSON como alternativa a Firebase.
 
 ### 👓 Sistema de gestión integral para óptica
 
-Sistema web para la gestión de una óptica y consultorio oftalmológico,
-incluyendo tanto backend como frontend.
+Participé en el desarrollo de un sistema web para la gestión de una óptica
+y consultorio oftalmológico, compuesto por frontend, API REST y base de datos.
 
-El backend fue desarrollado como una **API REST con Node.js y Express**,
-integrando diferentes módulos del sistema, entre ellos:
+Mi participación se centró principalmente en el desarrollo del **frontend y
+backend del módulo de control de inventario de productos ópticos**, trabajando
+con funcionalidades relacionadas con productos, categorías, stock y gestión
+de información, además de colaborar en otras integraciones del sistema.
+
+El proyecto completo incluía funcionalidades como:
 
 - Gestión de usuarios y autenticación mediante JWT.
 - Registro y administración de clientes y empleados.
@@ -203,13 +208,13 @@ integrando diferentes módulos del sistema, entre ellos:
 - Documentación de endpoints mediante Swagger UI.
 
 Para la persistencia de información se utilizó **MySQL con Sequelize ORM**.
-El proyecto también incluye un frontend web para interactuar con las
+El sistema también integró un frontend web para interactuar con las
 funcionalidades expuestas por la API.
 
-**Backend:** Node.js · Express · Sequelize · JWT · Passport  
+**Backend:** Node.js · Express · Sequelize  
 **Base de datos:** MySQL  
 **Frontend:** JavaScript · HTML · CSS · SCSS  
-**Otros:** Swagger UI · PDFKit · Multer · bcrypt · express-validator
+**Otros:** JWT · Passport · Swagger / OpenAPI · PDFKit · Multer · bcrypt · express-validator
 
 [Ver repositorio](https://github.com/Croximity/ProyectoExpertos)
 
