@@ -121,6 +121,8 @@ Entre sus componentes se encuentran:
 **Tecnologías:**  
 Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg · Pandas · NumPy · Scikit-learn
 
+[Ver repositorio](https://github.com/Lisandro-Cantarero/Proyecto_Oratoria)
+
 ---
 
 ### 💳 SubTracker — Gestión de suscripciones
@@ -153,6 +155,8 @@ mediante HTML y CSS dentro del entorno de Odoo.
 
 **Tecnologías:** Odoo · HTML · CSS
 
+[Ver repositorio](https://github.com/AngelOtsutsuki/clinica_ayd)
+
 ---
 
 ### 📱 Aplicación móvil de recetas
@@ -164,6 +168,8 @@ El proyecto también permite utilizar información almacenada localmente
 mediante JSON como alternativa a Firebase.
 
 **Tecnologías:** Flutter · Dart · Firebase · JSON
+
+[Ver repositorio](https://github.com/Lisandro-Cantarero/FlutterFirebase-recetario)
 
 ---
 
@@ -183,6 +189,8 @@ El proyecto integró además un frontend desarrollado con React para consumir
 las funcionalidades expuestas por el backend.
 
 **Tecnologías del proyecto:** Java · JWT · React · Base de datos
+
+[Ver repositorio](https://github.com/Croximity/ProyectoExpertos)
 
 ---
 
