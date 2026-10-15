@@ -111,7 +111,6 @@ Entre sus componentes se encuentran:
 
 - Entrenamiento de una red neuronal con TensorFlow/Keras para la detección
   y clasificación de muletillas a partir de espectrogramas.
-- Procesamiento de audio real y sintético.
 - Análisis de audio utilizando Librosa y FFmpeg.
 - Procesamiento y análisis visual mediante OpenCV y MediaPipe.
 
