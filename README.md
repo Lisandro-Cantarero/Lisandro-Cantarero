@@ -1,12 +1,17 @@
 # Hola, soy Lisandro Cantarero 👋
 
-### Desarrollador Backend Junior
+### Desarrollador de Software Junior
 
-Soy egresado de Ingeniería en Sistemas y actualmente estoy orientando mi perfil profesional al desarrollo backend con **C#, .NET, ASP.NET Core y SQL Server**.
+Soy egresado de Ingeniería en Sistemas, con experiencia práctica en desarrollo
+backend sobre proyectos empresariales .NET y experiencia académica en
+desarrollo web, móvil, bases de datos y aprendizaje automático.
 
-He participado en proyectos empresariales trabajando con modificación y homologación de APIs, reglas de negocio, bases de datos, integraciones entre sistemas y procesos transaccionales.
+Durante mi práctica profesional trabajé con **C#, .NET, ASP.NET Core y
+SQL Server**, participando en APIs, reglas de negocio, bases de datos,
+integraciones entre sistemas y procesos transaccionales.
 
-Durante mi formación universitaria también desarrollé proyectos con **Java** y trabajé con **Python** en mi proyecto de tesis.
+También he desarrollado proyectos académicos utilizando tecnologías como
+**TypeScript, Vue 3, Express, Java, Flutter/Dart, Python y Odoo**.
 
 ---
 
@@ -19,16 +24,30 @@ Durante mi formación universitaria también desarrollé proyectos con **Java** 
 - Entity Framework Core
 - LINQ
 - ADO.NET
+- Express
+- Java
 
-### Bases de datos
+### Frontend y móvil
+- HTML
+- CSS
+- TypeScript
+- Vue 3
+- Tailwind CSS
+- Flutter
+- Dart
+
+### Bases de datos y acceso a datos
 - SQL Server
 - T-SQL
 - Stored Procedures
-- SSMS
+- SQLite
+- Firebase
+- Prisma
 - Modelado relacional
 
 ### APIs y herramientas
 - REST APIs
+- JWT
 - Postman
 - Swagger / OpenAPI
 - Git
@@ -36,10 +55,12 @@ Durante mi formación universitaria también desarrollé proyectos con **Java** 
 - Azure DevOps
 - Visual Studio
 
-### Otros lenguajes y tecnologías
-- Java
+### Otros
+- Odoo
 - Python
 - TensorFlow / Keras
+- OpenCV
+- MediaPipe
 - Pandas
 - NumPy
 - Scikit-learn
@@ -49,70 +70,93 @@ Durante mi formación universitaria también desarrollé proyectos con **Java** 
 ## 💼 Experiencia
 
 ### Desarrollo Backend — Práctica Profesional
+**Informática Atlántida · Dilo**
 
-Participé en el mantenimiento y modificación de proyectos empresariales desarrollados en **.NET**, trabajando sobre código existente y funcionalidades previamente implementadas.
+Participé en el desarrollo y mantenimiento de proyectos empresariales
+basados en .NET.
 
-Entre las actividades realizadas se encuentran:
+Trabajé en:
 
-- Homologación de funcionalidades y endpoints relacionados con eventos y compra de boletos entre proyectos .NET.
-- Adaptación de consultas con Entity Framework Core y LINQ para consumir procedimientos almacenados mediante ADO.NET.
-- Ajustes en DTOs, interfaces y mapeos de datos.
-- Trabajo con integraciones y procesos transaccionales relacionados con eventos, boletería y pagos.
-- Análisis de confirmaciones, reintentos, conectividad y escenarios de procesamiento.
+- Creación y consumo de endpoints de API.
+- Homologación de funcionalidades entre proyectos .NET.
+- Adaptación de consultas de Entity Framework Core/LINQ a procedimientos
+  almacenados mediante ADO.NET.
+- Integraciones y procesos transaccionales relacionados con eventos,
+  boletería y pagos.
 - Pruebas funcionales, validaciones en base de datos y análisis de incidencias.
 
 ---
 
-## 🎓 Proyecto de tesis
+## 🚀 Proyectos destacados
 
-Proyecto orientado al análisis automatizado de exposiciones orales mediante **procesamiento de audio, visión por computadora y aprendizaje automático**.
+### 🎓 Proyecto de tesis — Análisis automatizado de exposiciones orales
 
-Entre los componentes desarrollados se incluyen:
+Sistema orientado al análisis automatizado de exposiciones mediante
+procesamiento de audio, visión por computadora y aprendizaje automático.
 
-- Entrenamiento de un modelo de red neuronal con **TensorFlow/Keras** para la detección y clasificación de muletillas a partir de espectrogramas.
-- Procesamiento de audio real y sintético.
-- Análisis de audio utilizando herramientas como **Librosa** y **FFmpeg**.
-- Uso de **OpenCV** y **MediaPipe** para procesamiento y análisis visual.
-- Uso de herramientas de análisis de datos y aprendizaje automático con Python.
-
-**Tecnologías utilizadas:**  
-Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg · Pandas · NumPy · Scikit-learn
+**Tecnologías:**  
+Python · TensorFlow/Keras · OpenCV · MediaPipe · Librosa · FFmpeg
 
 ---
 
-## ☕ Experiencia académica con Java
+### 💳 SubTracker — Gestión de suscripciones
 
-Durante mi formación universitaria desarrollé diferentes proyectos y ejercicios utilizando **Java**, aplicando conceptos como:
+Aplicación Full Stack para registrar, consultar, modificar y eliminar
+suscripciones, además de calcular automáticamente el gasto mensual.
 
-- Programación orientada a objetos.
-- Desarrollo de aplicaciones CRUD.
-- Manejo de bases de datos.
-- Consultas y relaciones entre tablas.
-- Comunicación cliente-servidor.
-- Desarrollo de aplicaciones académicas con frontend y backend.
+**Frontend:** Vue 3 · TypeScript · Tailwind CSS  
+**Backend:** Express · TypeScript · Prisma  
+**Base de datos:** SQLite
 
-Algunos de estos proyectos se encuentran disponibles en mis repositorios públicos.
+[Ver repositorio](https://github.com/Lisandro-Cantarero/ProyectoFinal_Topicos)
 
 ---
 
-## 🚀 En qué estoy trabajando actualmente
+### 🏥 Sistema de gestión clínica en Odoo
 
-Actualmente estoy reforzando mis conocimientos en desarrollo backend, principalmente en:
+Proyecto desarrollado dentro del ecosistema Odoo para gestionar pacientes,
+médicos e inventario.
 
-- C# y .NET.
-- ASP.NET Core Web API.
-- SQL Server y T-SQL.
-- Entity Framework Core.
-- LINQ.
-- ADO.NET.
-- Diseño y consumo de APIs REST.
-- Buenas prácticas de desarrollo backend.
+Incluyó creación de modelos, vistas e interfaces y personalización mediante
+HTML y CSS.
 
-Mi objetivo es continuar desarrollándome profesionalmente como **Desarrollador Backend .NET**.
+**Tecnologías:** Odoo · HTML · CSS
+
+---
+
+### 📱 Aplicación móvil de recetas
+
+Aplicación desarrollada con Flutter y Dart, con almacenamiento mediante
+Firebase y soporte alternativo para carga local utilizando JSON.
+
+**Tecnologías:** Flutter · Dart · Firebase · JSON
+
+---
+
+### 👓 Sistema de gestión para óptica
+
+Participación en el desarrollo backend de un sistema de gestión utilizando
+Java, operaciones CRUD, relaciones entre entidades y autenticación mediante
+JWT.
+
+El proyecto integró además un frontend desarrollado con React.
+
+**Tecnologías del proyecto:** Java · JWT · React · Base de datos
+
+---
+
+## 🌱 Actualmente
+
+Continúo reforzando mis conocimientos en desarrollo de software,
+principalmente en **C#, .NET, ASP.NET Core, SQL Server y desarrollo de APIs**,
+mientras amplío mi experiencia con tecnologías web y Full Stack.
 
 ---
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/lisandro-cantarero-9baab1401](https://www.linkedin.com/in/lisandro-cantarero-9baab1401)
-- **Email:** [lisandrogiron147@gmail.com](mailto:lisandrogiron147@gmail.com)
+**LinkedIn:**  
+[linkedin.com/in/lisandro-cantarero-9baab1401](https://www.linkedin.com/in/lisandro-cantarero-9baab1401)
+
+**Email:**  
+[lisandrogiron147@gmail.com](mailto:lisandrogiron147@gmail.com)
