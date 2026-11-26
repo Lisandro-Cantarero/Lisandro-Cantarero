@@ -13,19 +13,6 @@ integraciones entre sistemas y procesos transaccionales.
 Durante mi formación también he participado en proyectos académicos utilizando
 diferentes tecnologías web, móviles y de análisis de datos.
 
----
-
-## 🌱 Actualmente
-
-Continúo reforzando mis conocimientos en desarrollo de software,
-principalmente en **C#, .NET, ASP.NET Core, SQL Server y desarrollo de APIs**,
-mientras amplío mi experiencia con tecnologías web y Full Stack.
-
-Mi objetivo es continuar creciendo como desarrollador de software,
-fortaleciendo especialmente mis conocimientos en backend y ampliando
-progresivamente mi experiencia en desarrollo frontend.
-
----
 
 ## 🛠️ Tecnologías
 
