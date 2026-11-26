@@ -1,4 +1,4 @@
-# Hola, soy Lisandro Cantarero 👋
+# Hola, soy Lisandro Cantarero 
 
 ### Desarrollador de Software Junior
 
